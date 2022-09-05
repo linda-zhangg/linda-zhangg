@@ -1,4 +1,5 @@
-Computer Science student || I keep my projects on here:)
+Computer Science student || I keep my projects on here.
+Request to make them public:)
 
 <!--
 **linda-zhangg/linda-zhangg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
