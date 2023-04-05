@@ -1,7 +1,7 @@
 Hello! Linda here.
 💙 Computer Science student at VUW NZ 
 💙 I keep my projects on here! 
-Request to make (some of) them public:)
+Request to make more of them public:)
 
 <!--
 **linda-zhangg/linda-zhangg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
